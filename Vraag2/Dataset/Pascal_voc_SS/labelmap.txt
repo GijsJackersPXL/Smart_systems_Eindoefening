@@ -1,0 +1,8 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+Rekenmachine:128,0,0::
+PSoC_6:0,128,0::
+PYNQ doos:128,128,0::
+Pen:0,0,128::
+DVB:128,0,128::
+Muis:0,128,128::
