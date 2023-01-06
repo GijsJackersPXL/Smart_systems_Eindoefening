@@ -1,6 +1,0 @@
-Rekenmachine
-PSoC_6
-PYNQ doos
-Pen
-DVB
-Muis
