@@ -1,6 +1,6 @@
 # Smart_systems_Eindoefening
 
-##Vraag 1
+## Vraag 1
 
 Voor deze 2 onderdelen mag je samenwerken in groepen tot 3 personen, iedere student dient echter zelf voor de deadline een oplossing op te laden.
 
