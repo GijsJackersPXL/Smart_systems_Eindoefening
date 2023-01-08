@@ -1,0 +1,2 @@
+Voor vraag 3 hebben wij een model getraind via foto’s van de PSoC. 
+Deze zal de PSoC kunnen herkennen zoals te zien is op de video.
