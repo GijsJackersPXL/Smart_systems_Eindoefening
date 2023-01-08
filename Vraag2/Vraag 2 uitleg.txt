@@ -1,3 +1,0 @@
-Voor vraag 2 hebben wij een model getraind voor 6 verschillende objecten. 
-In plaats van dit via de Jetson Nano te doen gaat ons model objecten herkennen aan de hand van foto’s van de verschillende modellen. 
-Zoals op de video te zien is zal deze de 6 verschillende modellen kunnen onderscheiden van elkaar. 
